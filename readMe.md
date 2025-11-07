@@ -2,10 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DHIA%20GHOUMA&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full-Stack%20Engineer%20|%20AI%20Architect%20|%20Innovation%20Driver&descAlignY=55&descSize=18"/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=🚀+Crafting+AI-Powered+Solutions;💻+Building+Scalable+Full-Stack+Apps;🤖+Architecting+Intelligent+Systems;✨+Turning+Ideas+Into+Reality" alt="Typing SVG" />
-</div>
-
 <br>
 
 <!-- Animated Badges -->
@@ -276,16 +272,6 @@ gantt
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/DhiaGhouma/DhiaGhouma/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 📈 Coding Activity
 
 <div align="center">
@@ -317,15 +303,6 @@ gantt
 
 </div>
 
----
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l4wot55vqrk73yfajnnkzufxyq&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00f7f7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31l4wot55vqrk73yfajnnkzufxyq&redirect=true)
-
-</div>
 
 ---
 
