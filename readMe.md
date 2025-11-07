@@ -555,4 +555,268 @@ looking_for:
 
 ### 🌟 THANKS FOR STOPPING BY!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&width=600&lines=Let's+create+something+extraordinary!+🚀;Together+we+can+change+the+world!+🌍;Your+next+collaborator+is+here!+✨" alt="Call to action" />
+
+<br><br>
+
+<!-- Footer Wave Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Stay%20Curious%20•%20Stay%20Hungry%20•%20Stay%20Humble&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
+
+<!-- Visitor Counter -->
+<br>
+<img src="https://profile-counter.glitch.me/DhiaGhouma/count.svg" alt="Visitor Count" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ FUN FACTS ABOUT ME
+
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/dumbbell.png" width="60"/>
+<br><b>💪 Fitness</b>
+<br><sub>Bodybuilding enthusiast<br>Code & gains</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/soccer-ball.png" width="60"/>
+<br><b>⚽ Football</b>
+<br><sub>Team player<br>On & off the field</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/3d-model.png" width="60"/>
+<br><b>🎨 Modeling</b>
+<br><sub>3D design<br>Creative mind</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/camping-tent.png" width="60"/>
+<br><b>🏕️ Camping</b>
+<br><sub>Nature lover<br>Adventure seeker</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/000000/movie.png" width="60"/>
+<br><b>🎬 Cinema</b>
+<br><sub>Film buff<br>Story enthusiast</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎓 EDUCATION & CERTIFICATIONS
+
+| 🏫 Institution | 📚 Degree | 📅 Period | 🎯 Focus |
+|----------------|-----------|-----------|----------|
+| **ESPRIT** | Engineering in Computer Science | 2022 - Present | Full-Stack & AI/ML |
+| **FSB** | Bachelor's in Software Engineering | 2020 - 2022 | Software Development |
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌍 LANGUAGES
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/arabic.png" width="60"/>
+<br><b>العربية</b>
+<br><sub>Native • C2</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/great-britain.png" width="60"/>
+<br><b>English</b>
+<br><sub>Fluent • C2</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/france.png" width="60"/>
+<br><b>Français</b>
+<br><sub>Intermediate • B2</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 CODING ACTIVITY
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=DhiaGhouma&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f7f7&text_color=c9d1d9" alt="Wakatime Stats" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🏅 GITHUB ACHIEVEMENTS
+
+<img src="https://github-profile-trophy.vercel.app/?username=DhiaGhouma&theme=discord&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 TESTIMONIALS
+
+> *"Dhia's ability to integrate AI into full-stack applications is exceptional. His code is clean, efficient, and production-ready."*  
+> — **Tech Lead, Vision Age VFX**
+
+> *"A passionate engineer who delivers beyond expectations. His problem-solving skills are outstanding."*  
+> — **Project Manager, ARIMAYI Academy**
+
+> *"Dhia combines technical excellence with creative thinking. A true asset to any development team."*  
+> — **CTO, Technix**
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎯 2025 ROADMAP
+
+```mermaid
+graph LR
+    A[🎯 Q1 2025] --> B[Master System Design]
+    A --> C[Build 5 AI Projects]
+    B --> D[🚀 Q2 2025]
+    C --> D
+    D --> E[Launch SaaS Product]
+    D --> F[Contribute to Major OS Projects]
+    E --> G[📈 Q3 2025]
+    F --> G
+    G --> H[Scale to 10K Users]
+    G --> I[Tech Conference Speaker]
+    H --> J[🏆 Q4 2025]
+    I --> J
+    J --> K[Full-Time Dream Role]
+    J --> L[Build Personal Brand]
+    
+    style A fill:#00f7f7,stroke:#fff,stroke-width:2px,color:#000
+    style D fill:#00f7f7,stroke:#fff,stroke-width:2px,color:#000
+    style G fill:#00f7f7,stroke:#fff,stroke-width:2px,color:#000
+    style J fill:#00f7f7,stroke:#fff,stroke-width:2px,color:#000
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔥 RECENT ACTIVITY
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+<a href="https://github.com/DhiaGhouma"><img src="https://github-readme-activity-graph.vercel.app/graph?username=DhiaGhouma&bg_color=0D1117&color=00f7f7&line=ff6b6b&point=00f7f7&area=true&hide_border=true&custom_title=Recent%20Contribution%20Activity%20(Last%2030%20Days)" alt="Contribution Graph" /></a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 PINNED REPOSITORIES
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DhiaGhouma&repo=ArtVerse&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f7f7)](https://github.com/DhiaGhouma/ArtVerse)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DhiaGhouma&repo=NutritionGO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f7f7)](https://github.com/DhiaGhouma/NutritionGO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DhiaGhouma&repo=UrbanGreen&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f7f7)](https://github.com/DhiaGhouma/UrbanGreen)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DhiaGhouma&repo=BodybuildingAI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f7f7)](https://github.com/DhiaGhouma/BodybuildingAI)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💝 SUPPORT MY WORK
+
+<a href="https://www.buymeacoffee.com/dhiaghouma">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
+<a href="https://ko-fi.com/dhiaghouma">
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+</a>
+<a href="https://www.patreon.com/dhiaghouma">
+  <img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" />
+</a>
+
+<br><br>
+
+*If you find my projects helpful, consider buying me a coffee! ☕*  
+*Every contribution helps me create more open-source tools and content.*
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎨 ASCII ART
+
+```
+    ____  __    __________    ___________  ______  __  ____  ___    
+   / __ \/ /   / /  _/ __ \  / ____/ __ \/ / __ \/ / / /  |/  /   
+  / / / / /___/ // // /_/ / / / __/ / / / / / / / / / / /|_/ /    
+ / /_/ / / __ \/ // // ____/ / /_/ / /_/ / / /_/ / /_/ / /  / /     
+/_____/_/_/ /_/___/_/_/      \____/\____/_/\____/\____/_/  /_/      
+                                                                      
+      ╔═══════════════════════════════════════════════════╗
+      ║  🚀 Full-Stack Engineer • AI Architect 🤖        ║
+      ║  💻 Building the Future, One Line at a Time      ║
+      ║  ✨ Open for Collaboration & Innovation          ║
+      ╚═══════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+### 🌈 FINAL THOUGHTS
+
+*"In a world where you can be anything, be kind, be curious, and be the engineer who builds solutions that matter."*
+
+**✨ Remember:** Every expert was once a beginner. Every project was once just an idea.  
+**🚀 Keep coding. Keep learning. Keep building.**
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!+👋;Let's+connect+and+create+magic!+✨;The+best+is+yet+to+come!+🚀;Happy+Coding!+💻" alt="Farewell message" />
+
+<br><br>
+
+**Made with** 💙 **and lots of** ☕ **by Dhia Ghouma**
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/⭐_Star_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhiaGhouma?tab=repositories)
+[![Follow](https://img.shields.io/badge/👥_Follow_Me-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhiaGhouma)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+</div>
