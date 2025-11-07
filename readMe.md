@@ -6,7 +6,7 @@
 
 <!-- Animated Badges -->
 <p align="center">
-  <a href="https://dhiaghouma.vercel.app"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-FF6B6B?style=for-the-badge&logoColor=white&labelColor=000000"></a>
+  <a href="https://dhiaghouma.onrender.com/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-FF6B6B?style=for-the-badge&logoColor=white&labelColor=000000"></a>
   <a href="https://linkedin.com/in/dhia-ghouma-725ab4212"><img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"></a>
   <a href="mailto:ghoumadhia01@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"></a>
   <a href="https://github.com/DhiaGhouma"><img src="https://img.shields.io/badge/⭐_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"></a>
@@ -329,6 +329,5 @@ gantt
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=25&fontAlignY=70&animation=twinkling&fontColor=ffffff"/>
 
-![Visitor Count](https://profile-counter.glitch.me/DhiaGhouma/count.svg)
 
 </div>
