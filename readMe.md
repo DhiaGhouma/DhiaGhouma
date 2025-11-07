@@ -1,198 +1,323 @@
 <div align="center">
 
-# 🚀 Welcome to Dhia's Code Universe
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=DHIA%20GHOUMA&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full-Stack%20Engineer%20|%20AI%20Architect%20|%20Innovation%20Driver&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Engineer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+The+Future+%E2%9C%A8;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=🚀+Crafting+AI-Powered+Solutions;💻+Building+Scalable+Full-Stack+Apps;🤖+Architecting+Intelligent+Systems;✨+Turning+Ideas+Into+Reality" alt="Typing SVG" />
+</div>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white)](https://dhiaghouma.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhia-ghouma-725ab4212)
-[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghoumadhia01@gmail.com)
-[![GitHub](https://img.shields.io/badge/⭐_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DhiaGhouma)
+<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<!-- Animated Badges -->
+<p align="center">
+  <a href="https://dhiaghouma.vercel.app"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-FF6B6B?style=for-the-badge&logoColor=white&labelColor=000000"></a>
+  <a href="https://linkedin.com/in/dhia-ghouma-725ab4212"><img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"></a>
+  <a href="mailto:ghoumadhia01@gmail.com"><img src="https://img.shields.io/badge/📧_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"></a>
+  <a href="https://github.com/DhiaGhouma"><img src="https://img.shields.io/badge/⭐_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<br>
+
+<!-- Animated Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DhiaGhouma&label=PROFILE+VIEWS&color=00f7f7&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/DhiaGhouma?label=FOLLOWERS&style=for-the-badge&color=00f7f7&labelColor=000000" alt="followers" />
+  <img src="https://img.shields.io/github/stars/DhiaGhouma?label=STARS&style=for-the-badge&color=00f7f7&labelColor=000000" alt="stars" />
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4a0c-abf3-d65a8a2d5f5d.gif" width="100%">
 
-```javascript
-class SoftwareEngineer {
-    constructor() {
-        this.name = "Dhia Ghouma";
-        this.location = "Tunisia 🇹🇳";
-        this.education = "Computer Science Engineering @ ESPRIT";
-        this.passions = ["AI/ML", "Full-Stack Dev", "Problem Solving"];
-    }
-    
-    getCurrentWork() {
-        return [
-            "🔥 Building AI-powered recommendation systems",
-            "⚡ Crafting seamless full-stack experiences",
-            "🎯 Contributing to open source",
-            "📚 Mastering system design & ML algorithms"
-        ];
-    }
-    
-    getAchievements() {
-        return {
-            experience: "4+ professional internships",
-            projects: "10+ production-ready applications",
-            focus: "AI Integration & Scalable Systems",
-            motto: "Code with purpose, innovate fearlessly"
-        };
-    }
+## 🎯 MISSION CONTROL
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```typescript
+interface Engineer {
+    name: string;
+    role: string[];
+    location: string;
+    education: string;
+    languages: string[];
+    superpowers: string[];
 }
 
-const dhia = new SoftwareEngineer();
-console.log(dhia.getCurrentWork());
+const dhia: Engineer = {
+    name: "Dhia Ghouma",
+    role: ["Full-Stack Architect", "AI/ML Engineer", "Problem Solver"],
+    location: "Tunisia 🇹🇳",
+    education: "Computer Science @ ESPRIT",
+    languages: ["JavaScript", "TypeScript", "Python", "Java"],
+    superpowers: [
+        "🧠 Building AI recommendation systems",
+        "⚡ Crafting real-time applications",
+        "🎨 Designing seamless UX/UI",
+        "🚀 Shipping production-ready code",
+        "💡 Solving complex problems elegantly"
+    ]
+};
+
+// Current Mission
+const mission = {
+    status: "ACTIVE 🟢",
+    focus: ["AI Integration", "System Design", "Open Source"],
+    goal: "Building products that matter",
+    availability: "Open for collaboration"
+};
+
+export default dhia;
 ```
 
+<br clear="right"/>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4a0c-abf3-d65a8a2d5f5d.gif" width="100%">
+
+## 🏆 ACHIEVEMENTS UNLOCKED
+
 <div align="center">
 
-### 🎯 Quick Facts
+| 🎯 Metric | 📊 Achievement |
+|-----------|---------------|
+| **💼 Professional Experience** | 4+ Companies • 12+ Months |
+| **🚀 Projects Shipped** | 10+ Production Apps |
+| **🤖 AI Models Built** | 5+ ML Systems |
+| **💻 Lines of Code** | 100,000+ |
+| **☕ Coffee Consumed** | Infinity ♾️ |
+| **🔥 Bugs Squashed** | Too many to count 🐛 |
 
-🔭 **Currently:** Building intelligent apps & AI solutions  
-🌱 **Learning:** Advanced ML, System Design, Cloud Architecture  
-💡 **Interests:** Generative AI, Recommender Systems, Real-time Apps  
-⚡ **Fun Fact:** Fitness enthusiast who debugs code between sets 💪
+<img src="https://github-profile-trophy.vercel.app/?username=DhiaGhouma&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4a0c-abf3-d65a8a2d5f5d.gif" width="100%">
+
+## 🛠️ ARSENAL • TECH STACK
 
 <div align="center">
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### ⚡ CORE WEAPONS
 
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<table>
+<tr>
+<td valign="top" width="33%">
 
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+#### 🎨 Frontend
+<div align="center">  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+</div>
 
-### 🗄️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+</td>
+<td valign="top" width="33%">
 
-### 🤖 AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+#### ⚙️ Backend
+<div align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</div>
 
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+</td>
+<td valign="top" width="33%">
+
+#### 🗄️ Databases
+<div align="center">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+</div>
+
+</td>
+</tr>
+</table>
+
+### 🤖 AI/ML ARSENAL
+
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+
+### 🔧 DEVOPS & TOOLS
+
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+### 💎 SKILL CONSTELLATION
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,nodejs,express,python,java,spring,flask,django,laravel,php,mongodb,postgres,mysql,redis,docker,git,github,linux,vscode,postman,figma,jest,tensorflow,sklearn&perline=14" />
 
 </div>
 
 ---
 
-## 🏆 Featured Projects
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4a0c-abf3-d65a8a2d5f5d.gif" width="100%">
+
+## 🚀 FEATURED PROJECTS • HALL OF FAME
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎨 ArtVerse
-**AI-Powered Digital Art Platform**
+### 🎨 [ArtVerse](https://github.com/DhiaGhouma)
+<img src="https://img.shields.io/badge/AI_Powered-FF6B6B?style=for-the-badge" /> <img src="https://img.shields.io/badge/Production-00C851?style=for-the-badge" />
 
-Generative AI gallery enabling artists to create, showcase, and monetize digital artwork
+**Next-Gen Digital Art Platform with Generative AI**
 
-`React` `Node.js` `AI Generation` `E-commerce`
+Revolutionary platform enabling artists to create, showcase, and monetize AI-generated artwork. Features include real-time collaboration, NFT integration, and advanced image generation.
 
-[🔗 View Project](#)
+**🔥 Tech Stack:**  
+`React` `Node.js` `MongoDB` `TensorFlow` `Stripe` `AWS S3`
 
-</td>
-<td width="50%">
+**✨ Highlights:**
+- 🤖 Generative AI art creation
+- 💰 Integrated payment system
+- 🖼️ Artist portfolio management
+- 📊 Analytics dashboard
 
-### 🏋️‍♂️ Bodybuilding AI Assistant
-**Smart Fitness Companion**
-
-Flask microservice analyzing photos to generate personalized workout feedback
-
-`Python` `Flask` `Computer Vision` `ML`
-
-[🔗 View Project](#)
+[→ Explore Project](https://github.com/DhiaGhouma)
 
 </td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td width="50%">
+### 🏋️‍♂️ [Bodybuilding AI Assistant](https://github.com/DhiaGhouma)
+<img src="https://img.shields.io/badge/Computer_Vision-9B59B6?style=for-the-badge" /> <img src="https://img.shields.io/badge/ML_Powered-F39C12?style=for-the-badge" />
 
-### 🎓 Course Recommender
-**Intelligent Learning Platform**
+**Intelligent Fitness Companion with Computer Vision**
 
-ML-powered system suggesting personalized courses using KNN & SVM algorithms
+Smart fitness app analyzing user photos to provide personalized workout recommendations. Uses pose detection and body composition analysis.
 
-`Python` `Scikit-learn` `Flask` `React`
+**🔥 Tech Stack:**  
+`Python` `Flask` `OpenCV` `TensorFlow` `React` `MongoDB`
 
-[🔗 View Project](#)
+**✨ Highlights:**
+- 📸 Pose detection & analysis
+- 💪 Custom workout plans
+- 📈 Progress tracking
+- 🎯 Goal-based recommendations
 
-</td>
-<td width="50%">
-
-### 🤝 Skill Exchange App
-**AI Mentor Matching**
-
-Smart platform connecting mentors with learners using ML classification
-
-`MERN Stack` `Flask` `ML Models`
-
-[🔗 View Project](#)
+[→ Explore Project](https://github.com/DhiaGhouma)
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🥗 NutritionGO
-**Smart Nutrition Advisor**
+### 🎓 [Smart Course Recommender](https://github.com/DhiaGhouma)
+<img src="https://img.shields.io/badge/Machine_Learning-00D9FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/EdTech-FFB142?style=for-the-badge" />
 
-Semantic web + ML platform for personalized meal recommendations
+**AI-Driven Learning Platform**
 
-`Python` `ML` `Semantic Web` `Viz`
+Intelligent course recommendation system using collaborative filtering and content-based algorithms (KNN, SVM) to match learners with optimal courses.
 
-[🔗 View Project](#)
+**🔥 Tech Stack:**  
+`React` `Node.js` `Flask` `Scikit-learn` `MongoDB` `Redis`
+
+**✨ Highlights:**
+- 🧠 ML recommendation engine
+- 🎯 Personalized learning paths
+- 📊 Student analytics
+- ⚡ Real-time updates
+
+[→ Explore Project](https://github.com/DhiaGhouma)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌱 UrbanGreen
-**Eco-Project Recommender**
+### 🤝 [Skill Exchange Platform](https://github.com/DhiaGhouma)
+<img src="https://img.shields.io/badge/MERN_Stack-61DAFB?style=for-the-badge" /> <img src="https://img.shields.io/badge/AI_Matching-E74C3C?style=for-the-badge" />
 
-AI system matching ecological projects to NGOs
+**Smart Mentor-Learner Matching System**
 
-`Laravel` `Flask` `ML` `Sustainability`
+Revolutionary platform connecting mentors with learners using AI classification and intelligent matching algorithms based on skills, interests, and availability.
 
-[🔗 View Project](#)
+**🔥 Tech Stack:**  
+`React` `Node.js` `MongoDB` `Flask` `Socket.io` `ML Models`
+
+**✨ Highlights:**
+- 🎯 AI-powered matching
+- 💬 Real-time chat
+- 📅 Scheduling system
+- ⭐ Rating & reviews
+
+[→ Explore Project](https://github.com/DhiaGhouma)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🥗 [NutritionGO](https://github.com/DhiaGhouma)
+<img src="https://img.shields.io/badge/Semantic_Web-27AE60?style=for-the-badge" /> <img src="https://img.shields.io/badge/Health_Tech-E67E22?style=for-the-badge" />
+
+**Intelligent Nutrition & Meal Planning**
+
+Advanced nutrition platform leveraging semantic web technologies and ML to deliver personalized meal recommendations with detailed nutrient analysis.
+
+**🔥 Tech Stack:**  
+`Python` `Flask` `RDF` `SPARQL` `ML` `D3.js` `MongoDB`
+
+**✨ Highlights:**
+- 🥗 Personalized meal plans
+- 📊 Nutrient visualization
+- 🎯 Goal-based recommendations
+- 📱 Mobile-responsive design
+
+[→ Explore Project](https://github.com/DhiaGhouma)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 [UrbanGreen](https://github.com/DhiaGhouma)
+<img src="https://img.shields.io/badge/Sustainability-2ECC71?style=for-the-badge" /> <img src="https://img.shields.io/badge/Social_Impact-3498DB?style=for-the-badge" />
+
+**Eco-Project Recommendation Engine**
+
+AI-powered platform connecting NGOs and associations with ecological urban projects. Uses ML to match organizations with sustainable initiatives.
+
+**🔥 Tech Stack:**  
+`Laravel` `Flask` `Python` `ML` `MySQL` `Vue.js`
+
+**✨ Highlights:**
+- 🌍 Project matching algorithm
+- 📈 Impact tracking
+- 🤝 NGO collaboration tools
+- 🌿 Sustainability metrics
+
+[→ Explore Project](https://github.com/DhiaGhouma)
 
 </td>
 </tr>
@@ -202,128 +327,232 @@ AI system matching ecological projects to NGOs
 
 ---
 
-## 📊 GitHub Analytics
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4a0c-abf3-d65a8a2d5f5d.gif" width="100%">
+
+## 📊 BATTLE STATISTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DhiaGhouma&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhiaGhouma&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DhiaGhouma&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DhiaGhouma&theme=react&hide_border=true&background=0D1117&stroke=00f7f7&ring=00f7f7&fire=ff6b6b&currStreakLabel=00f7f7&sideLabels=00f7f7" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DhiaGhouma&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f7f7&ring=00f7f7&fire=ff6b6b&currStreakLabel=00f7f7" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhiaGhouma&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00f7f7&text_color=c9d1d9&langs_count=10" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=DhiaGhouma&bg_color=0D1117&color=00f7f7&line=00f7f7&point=ff6b6b&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhiaGhouma&custom_title=Dhia's%20Contribution%20Graph&bg_color=0d1117&color=00f7f7&line=00f7f7&point=ff6b6b&area_color=00f7f7&area=true&hide_border=true" alt="Contribution Graph"/>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhiaGhouma&theme=react&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhiaGhouma&custom_title=30-Day%20Contribution%20Journey&bg_color=0D1117&color=00f7f7&line=00f7f7&point=ff6b6b&area_color=00f7f7&area=true&hide_border=true&height=300" width="98%"/>
 
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4a0c-abf3-d65a8a2d5f5d.gif" width="100%">
+
+## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=DhiaGhouma&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhiaGhouma/DhiaGhouma/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DhiaGhouma/DhiaGhouma/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DhiaGhouma/DhiaGhouma/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
 ---
 
-## 💼 Professional Journey
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4a0c-abf3-d65a8a2d5f5d.gif" width="100%">
+
+## 💼 PROFESSIONAL JOURNEY
 
 <div align="center">
 
 ```mermaid
 gantt
-    title My Tech Journey
-    dateFormat  YYYY-MM
-    section Experience
-    Vision Age VFX (ML & Full-Stack)    :2025-06, 2025-08
-    ARIMAYI Academy (Next.js Dev)       :2025-07, 2025-08
-    Technix (Full-Stack Intern)         :2024-06, 2024-08
-    Arab Soft (Final Year Project)      :2023-02, 2023-05
-    section Education
-    ESPRIT Engineering School           :2022-09, 2025-12
+    title 🚀 Career Timeline & Growth
+    dateFormat YYYY-MM
+    section 💼 Experience
+    Vision Age VFX - ML Engineer          :active, 2025-06, 2025-08
+    ARIMAYI Academy - Next.js Dev         :active, 2025-07, 2025-08
+    Technix - Full-Stack Intern           :done, 2024-06, 2024-08
+    Arab Soft - Final Year Project        :done, 2023-02, 2023-05
+    section 🎓 Education
+    ESPRIT Engineering School             :2022-09, 2026-06
+    section 🏆 Milestones
+    10+ Production Projects               :milestone, 2025-08, 0d
+    AI/ML Specialization                  :milestone, 2025-06, 0d
+    Full-Stack Mastery                    :milestone, 2024-08, 0d
 ```
 
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/DhiaGhouma/DhiaGhouma/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 📈 Coding Activity
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhiaGhouma&theme=tokyonight" alt="Profile Summary"/>
-
-</div>
-
----
-
-## 🌟 Skills Visualization
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,java,spring,angular,flask,django,laravel,mongodb,postgres,mysql,docker,git,linux,figma,tensorflow&perline=10" />
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/graph.png" width="60"/>
+<br><b>🚀 Vision Age VFX</b>
+<br><sub>ML & Full-Stack Engineer</sub>
+<br><i>Jun 2025 - Aug 2025</i>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/>
+<br><b>💻 ARIMAYI Academy</b>
+<br><sub>Next.js Developer</sub>
+<br><i>Jul 2025 - Aug 2025</i>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/web.png" width="60"/>
+<br><b>⚡ Technix</b>
+<br><sub>Full-Stack Intern</sub>
+<br><i>Jun 2024 - Aug 2024</i>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60"/>
+<br><b>🎯 Arab Soft</b>
+<br><sub>Final Year Project</sub>
+<br><i>Feb 2023 - May 2023</i>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 💡 Random Dev Quote
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4a0c-abf3-d65a8a2d5f5d.gif" width="100%">
+
+## 🎯 CURRENT FOCUS & GOALS
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🔭 Building
+```yaml
+type: Projects
+status: In Progress
+focus:
+  - AI-powered apps
+  - Real-time systems
+  - Open source tools
+goal: Impact millions
+```
+
+</td>
+<td width="33%" align="center">
+
+### 🌱 Learning
+```yaml
+type: Skills
+status: Active
+mastering:
+  - System Design
+  - Cloud Architecture
+  - Advanced ML
+  - Microservices
+```
+
+</td>
+<td width="33%" align="center">
+
+### 💬 Collaborating
+```yaml
+type: Opportunities
+status: Open
+looking_for:
+  - Exciting projects
+  - Tech discussions
+  - Open source
+  - Innovation
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🎵 Currently Vibing To
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4a0c-abf3-d65a8a2d5f5d.gif" width="100%">
+
+## 💡 WISDOM OF THE DAY
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l4wot55vqrk73yfajnnkzufxyq&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00f7f7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31l4wot55vqrk73yfajnnkzufxyq&redirect=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do&author=Steve%20Jobs)
 
 </div>
 
 ---
 
-## 📫 Let's Connect & Collaborate!
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4a0c-abf3-d65a8a2d5f5d.gif" width="100%">
+
+## 🎵 CURRENTLY VIBING TO
 
 <div align="center">
 
-**Got an exciting project? Let's build something amazing together! 🚀**
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31l4wot55vqrk73yfajnnkzufxyq)
 
-<a href="https://dhiaghouma.vercel.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://linkedin.com/in/dhia-ghouma-725ab4212" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:ghoumadhia01@gmail.com">
-<img src="https://img.shields.io/badge/Email-Drop%20a%20Line-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9a22-4a0c-abf3-d65a8a2d5f5d.gif" width="100%">
+
+## 📫 LET'S BUILD SOMETHING AMAZING TOGETHER
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/domain.png" width="80"/>
+<br><b>Portfolio</b>
+<br><a href="https://dhiaghouma.vercel.app">dhiaghouma.vercel.app</a>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="80"/>
+<br><b>LinkedIn</b>
+<br><a href="https://linkedin.com/in/dhia-ghouma-725ab4212">Let's Connect</a>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="80"/>
+<br><b>Email</b>
+<br><a href="mailto:ghoumadhia01@gmail.com">Drop a Line</a>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/github.png" width="80"/>
+<br><b>GitHub</b>
+<br><a href="https://github.com/DhiaGhouma">Follow Me</a>
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🚀 OPEN TO
+
+<img src="https://img.shields.io/badge/Full--time_Opportunities-00C851?style=for-the-badge&logo=briefcase&logoColor=white" />
+<img src="https://img.shields.io/badge/Freelance_Projects-FF6B6B?style=for-the-badge&logo=freelancer&logoColor=white" />
+<img src="https://img.shields.io/badge/Open_Source-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Collaborations-00D9FF?style=for-the-badge&logo=handshake&logoColor=white" />
+<img src="https://img.shields.io/badge/Tech_Talks-9B59B6?style=for-the-badge&logo=discord&logoColor=white" />
 
 <br><br>
 
-### 💬 Open to:
-✅ Full-time opportunities | ✅ Freelance projects | ✅ Open source collaboration | ✅ Tech discussions
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=25&fontAlignY=70&animation=twinkling&fontColor=ffffff"/>
+### 💭 MY PHILOSOPHY
 
-![Visitor Count](https://profile-counter.glitch.me/DhiaGhouma/count.svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=800&lines=Code+with+purpose+•+Learn+continuously+•+Build+fearlessly;Innovation+through+collaboration+•+Excellence+in+execution;Dream+big+•+Start+small+•+Scale+fast;Make+it+work+•+Make+it+right+•+Make+it+fast" alt="Philosophy" />
 
-</div>
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+### 🌟 THANKS FOR STOPPING BY!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&">
